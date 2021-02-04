@@ -1,2 +1,2 @@
-# SethKimple.github.io
+# SethKimpler.github.io
 Senior Seminar Blog
